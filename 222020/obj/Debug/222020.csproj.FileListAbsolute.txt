@@ -1,0 +1,119 @@
+E:\222020\222020\obj\Debug\222020.csproj.AssemblyReference.cache
+E:\222020\222020\obj\Debug\222020.csproj.SuggestedBindingRedirects.cache
+E:\222020\222020\obj\Debug\_222020.FrmMenu.resources
+E:\222020\222020\obj\Debug\_222020.Properties.Resources.resources
+E:\222020\222020\obj\Debug\_222020.Views.FrmCidades.resources
+E:\222020\222020\obj\Debug\222020.csproj.GenerateResource.cache
+E:\222020\222020\obj\Debug\222020.csproj.CoreCompileInputs.cache
+E:\222020\222020\obj\Debug\222020.exe
+E:\222020\222020\obj\Debug\222020.pdb
+E:\222020\222020\bin\Debug\222020.exe.config
+E:\222020\222020\bin\Debug\222020.exe
+E:\222020\222020\bin\Debug\222020.pdb
+E:\222020\222020\bin\Debug\BouncyCastle.Crypto.dll
+E:\222020\222020\bin\Debug\Google.Protobuf.dll
+E:\222020\222020\bin\Debug\K4os.Compression.LZ4.dll
+E:\222020\222020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\222020\222020\bin\Debug\K4os.Hash.xxHash.dll
+E:\222020\222020\bin\Debug\MySql.Data.dll
+E:\222020\222020\bin\Debug\System.Buffers.dll
+E:\222020\222020\bin\Debug\System.Memory.dll
+E:\222020\222020\bin\Debug\System.Numerics.Vectors.dll
+E:\222020\222020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\222020\222020\bin\Debug\ZstdNet.dll
+E:\222020\222020\bin\Debug\BouncyCastle.Crypto.xml
+E:\222020\222020\bin\Debug\Google.Protobuf.pdb
+E:\222020\222020\bin\Debug\Google.Protobuf.xml
+E:\222020\222020\bin\Debug\K4os.Compression.LZ4.xml
+E:\222020\222020\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\222020\222020\bin\Debug\K4os.Hash.xxHash.xml
+E:\222020\222020\bin\Debug\MySql.Data.xml
+E:\222020\222020\bin\Debug\System.Buffers.xml
+E:\222020\222020\bin\Debug\System.Memory.xml
+E:\222020\222020\bin\Debug\System.Numerics.Vectors.xml
+E:\222020\222020\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\222020\222020\obj\Debug\_222020.Views.FrmMarcas.resources
+E:\222020\222020\obj\Debug\222020.csproj.CopyComplete
+E:\222020\222020\obj\Debug\_222020.Views.FrmCategoria.resources
+E:\222020\222020\obj\Debug\_222020.Views.FrmCliente.resources
+D:\Davi 2ds\222020\222020\bin\Debug\222020.exe.config
+D:\Davi 2ds\222020\222020\bin\Debug\222020.exe
+D:\Davi 2ds\222020\222020\bin\Debug\222020.pdb
+D:\Davi 2ds\222020\222020\bin\Debug\BouncyCastle.Crypto.dll
+D:\Davi 2ds\222020\222020\bin\Debug\Google.Protobuf.dll
+D:\Davi 2ds\222020\222020\bin\Debug\K4os.Compression.LZ4.dll
+D:\Davi 2ds\222020\222020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Davi 2ds\222020\222020\bin\Debug\K4os.Hash.xxHash.dll
+D:\Davi 2ds\222020\222020\bin\Debug\MySql.Data.dll
+D:\Davi 2ds\222020\222020\bin\Debug\System.Buffers.dll
+D:\Davi 2ds\222020\222020\bin\Debug\System.Memory.dll
+D:\Davi 2ds\222020\222020\bin\Debug\System.Numerics.Vectors.dll
+D:\Davi 2ds\222020\222020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Davi 2ds\222020\222020\bin\Debug\ZstdNet.dll
+D:\Davi 2ds\222020\222020\bin\Debug\BouncyCastle.Crypto.xml
+D:\Davi 2ds\222020\222020\bin\Debug\Google.Protobuf.pdb
+D:\Davi 2ds\222020\222020\bin\Debug\Google.Protobuf.xml
+D:\Davi 2ds\222020\222020\bin\Debug\K4os.Compression.LZ4.xml
+D:\Davi 2ds\222020\222020\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Davi 2ds\222020\222020\bin\Debug\K4os.Hash.xxHash.xml
+D:\Davi 2ds\222020\222020\bin\Debug\MySql.Data.xml
+D:\Davi 2ds\222020\222020\bin\Debug\System.Buffers.xml
+D:\Davi 2ds\222020\222020\bin\Debug\System.Memory.xml
+D:\Davi 2ds\222020\222020\bin\Debug\System.Numerics.Vectors.xml
+D:\Davi 2ds\222020\222020\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Davi 2ds\222020\222020\obj\Debug\222020.csproj.AssemblyReference.cache
+D:\Davi 2ds\222020\222020\obj\Debug\222020.csproj.SuggestedBindingRedirects.cache
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.FrmMenu.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Properties.Resources.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Views.FrmCategoria.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Views.FrmCidades.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Views.FrmCliente.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Views.FrmMarcas.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Views.FrmProdutos.resources
+D:\Davi 2ds\222020\222020\obj\Debug\222020.csproj.GenerateResource.cache
+D:\Davi 2ds\222020\222020\obj\Debug\222020.csproj.CoreCompileInputs.cache
+D:\Davi 2ds\222020\222020\obj\Debug\222020.csproj.CopyComplete
+D:\Davi 2ds\222020\222020\obj\Debug\222020.exe
+D:\Davi 2ds\222020\222020\obj\Debug\222020.pdb
+E:\222020\222020\obj\Debug\_222020.Views.FrmProdutos.resources
+D:\Davi 2ds\222020\222020\obj\Debug\_222020.Views.FrmVendas.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\222020.exe.config
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\222020.exe
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\222020.pdb
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\Google.Protobuf.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\MySql.Data.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Buffers.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Memory.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\ZstdNet.dll
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\Google.Protobuf.pdb
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\Google.Protobuf.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\MySql.Data.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Buffers.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Memory.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.csproj.AssemblyReference.cache
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.csproj.SuggestedBindingRedirects.cache
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.FrmMenu.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Properties.Resources.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Views.FrmCategoria.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Views.FrmCidades.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Views.FrmCliente.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Views.FrmMarcas.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Views.FrmProdutos.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\_222020.Views.FrmVendas.resources
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.csproj.GenerateResource.cache
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.csproj.CoreCompileInputs.cache
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.csproj.CopyComplete
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.exe
+C:\Users\davia\OneDrive\Área de Trabalho\222020\222020\obj\Debug\222020.pdb
